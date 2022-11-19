@@ -2,11 +2,11 @@
 # pc-racoon
 Disk cleanup and bulk virus removal tool for Windows PC
 
-Because of the MIT license, please include a link to GitHub (github.com/ERM073), the developer, if you use this source.
+please include a link to GitHub (github.com/ERM073), the developer, if you use this source.
 
 Windowsパソコン用のディスククリーンアップとウィルス一括削除ツール
 
-MIT ライセンスのため、このソースを使用する場合は、開発者である GitHub (github.com/ERM073) へのリンクを含めてください
+このソースを使用する場合は、開発者である GitHub (github.com/ERM073) へのリンクを含めてください
 
 # Features
 
