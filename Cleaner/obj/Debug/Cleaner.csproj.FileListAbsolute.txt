@@ -1,0 +1,11 @@
+C:\Users\souta\source\repos\Cleaner\Cleaner\bin\Debug\Cleaner.exe.config
+C:\Users\souta\source\repos\Cleaner\Cleaner\bin\Debug\Cleaner.exe
+C:\Users\souta\source\repos\Cleaner\Cleaner\bin\Debug\Cleaner.pdb
+C:\Users\souta\source\repos\Cleaner\Cleaner\obj\Debug\Cleaner.csproj.AssemblyReference.cache
+C:\Users\souta\source\repos\Cleaner\Cleaner\obj\Debug\Cleaner.csproj.SuggestedBindingRedirects.cache
+C:\Users\souta\source\repos\Cleaner\Cleaner\obj\Debug\Cleaner.Form1.resources
+C:\Users\souta\source\repos\Cleaner\Cleaner\obj\Debug\Cleaner.Properties.Resources.resources
+C:\Users\souta\source\repos\Cleaner\Cleaner\obj\Debug\Cleaner.csproj.GenerateResource.cache
+C:\Users\souta\source\repos\Cleaner\Cleaner\obj\Debug\Cleaner.csproj.CoreCompileInputs.cache
+C:\Users\souta\source\repos\Cleaner\Cleaner\obj\Debug\Cleaner.exe
+C:\Users\souta\source\repos\Cleaner\Cleaner\obj\Debug\Cleaner.pdb
